@@ -45,7 +45,6 @@ The SpaCy-tagged csv file includes the metadata. Here follow the columns and the
 |current_seats_hop | The amount of seats won in the elections of 2023 in the House of Representatives ('Tweede Kamer' in Dutch ) |
 | percent_votes | Percentage of votes the party earned in the elections of 2023 |
 | Text | The party program |
-| Doc | The doc object of the party program |
 | Tokens | The tokenized party program |
 | Lemmas | The lemmas in the party program |
 | POS | The Part-Of-Speech tags |
